@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "shell input/output redirection and filters"
+git push
